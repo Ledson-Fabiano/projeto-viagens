@@ -368,6 +368,21 @@ header{
 .book-btn:hover {
     background-color: #e68900;
 }
+.btn-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.btn-link:hover {
+    background-color: #0056b3;
+}
+
 *{
     margin: 0;
     padding: 0;
